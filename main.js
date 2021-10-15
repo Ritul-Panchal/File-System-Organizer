@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let helpObj = require('./commands/help');
 let treeObj = require('./commands/tree');
 let organizerObj = require('./commands/organizer');
